@@ -5,8 +5,8 @@ local M = {}
 local defaults = {
   components = { "%l", "%s", "{fold}", " " },
   fold = {
-    open = "",
-    close = "",
+    open = "",
+    close = "",
   },
 }
 
